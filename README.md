@@ -2,7 +2,7 @@
 Data Modeling with Apache Cassandra using music stream data
 
 ## Introduction
-The database is about making queries from a music stream data companies with Cassandra
+The database is about making queries from a music stream database with Cassandra
 
 ### Prerequisites
 The following packages are needed for running the code:
